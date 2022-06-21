@@ -34,3 +34,5 @@ This project aims to control a stepper motor and a DC motor via matrix keyboard 
 <br>2 - Potentiometers
 <br>4 - 10K Ohm resistors
 <br>2 - 330 Ohm resistors
+
+<br>For more details follow the video tutorial: https://www.youtube.com/watch?v=mz3z3iQRi6U
