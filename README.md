@@ -1,4 +1,4 @@
-# Projeto_02-de-Microcontroladores
+# PIC16F877A-Teclado-MotorCC-MotorStep
 
 Este projeto tem como objetivo controlar um motor de passo e um motor CC via teclado matricial e potenciômetro utilizando PIC 16F877A<br>
 
@@ -18,7 +18,7 @@ Este projeto tem como objetivo controlar um motor de passo e um motor CC via tec
 <br>Para mais detalhes segue o vídeo tutorial: https://www.youtube.com/watch?v=mz3z3iQRi6U
 <hr>
 
-# Project_02-de-Microcontrollers
+# PIC16F877A-Keyboard-MotorCC-MotorStep
 
 This project aims to control a stepper motor and a DC motor via matrix keyboard and potentiometer using PIC 16F877A<br>
 
